@@ -2,22 +2,26 @@ header
 {
     border: 1px solid black;
     min-height: 150px;
+
 }
 
 nav
 {
     border: 1px solid black;
     min-height: 100px;
+    margin-top: 10px;
 }
 
 article
 {
     border: 1px solid black;
     min-height: 600px;
+    margin-top: 10px;
 }
 
 footer
 {
     border: 1px solid black;
     min-height: 100px;
+    margin-top: 10px;
 }
