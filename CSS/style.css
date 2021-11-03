@@ -20,6 +20,7 @@ nav
     border: 1px solid black;
     min-height: 100px;
     margin: 10px;
+    width: 90%;
 }
 
 article
@@ -28,6 +29,7 @@ article
     min-height: 600px;
     margin-top: 10px;
     color: #341809;
+    margin: 95%;
 }
 
 footer
